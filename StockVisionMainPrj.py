@@ -87,3 +87,6 @@ fig = plt.figure(figsize=(15,6))
 plt.plot(pd.concat([google_data.Close[:splitting_len+100],ploting_data], axis=0))
 plt.legend(["Data- not used", "Original Test data", "Predicted Test data"])
 st.pyplot(fig)
+
+
+st.write("Developed By KishorForgge")
