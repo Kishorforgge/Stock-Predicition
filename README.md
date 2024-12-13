@@ -1,6 +1,6 @@
-# StockVision - Stocks Predictor Using Keras
+# StockVision App - Stocks Predictor Using Keras
 
-StockVision is a machine learning-based project that leverages deep learning techniques in **Keras** to predict stock prices. It utilizes historical stock market data to make predictions and provide insights for better investment decisions. This project is designed to assist both beginners and experienced investors in understanding market trends and forecasting potential stock movements.
+StockVision App is a machine learning-based project that leverages deep learning techniques in **Keras** to predict stock prices. It utilizes historical stock market data to make predictions and provide insights for better investment decisions. This project is designed to assist both beginners and experienced investors in understanding market trends and forecasting potential stock movements.
 
 Additionally, the project has been deployed as a web application using **Streamlit**. You can access the deployed app [here](https://stock-vision-keras.streamlit.app/).
 
