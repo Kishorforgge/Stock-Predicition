@@ -53,7 +53,7 @@ Additionally, the project has been deployed as a web application using **Streaml
 
 ---
 
-## Project Structures
+## Project Structure
 
 ```
 Stock-Predicition/
